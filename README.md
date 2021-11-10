@@ -42,6 +42,8 @@ Each individual can be in one health state at any given cycle with specific tran
 </table>
 <p></p> <i> **Rows Future State & Columns Current State** </i>
 <p></p>
+Conclusion from this Markov Chain is the probability of starting at an "Active" state and ending at "Recovery" state is 5.57%. This data was based on the India COVID-19 2020 peak.
+<p></p>
 Language: Python
 <p></p>
 <i>Last Updated: 8/20/20</i>
